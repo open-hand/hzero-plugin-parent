@@ -15,8 +15,6 @@
 
     <modules>
         <module>platform-hr</module>
-        <module>platform-api-cusz</module>
-        <module>admin-market</module>
     </modules>
 
     <repositories>

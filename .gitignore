@@ -32,6 +32,3 @@ gitlabci/.generated
 # VSCode
 .vscode
 
-# Test
-*/src/test/*
-
